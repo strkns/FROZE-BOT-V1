@@ -30,7 +30,7 @@
 # START SCRIPT?
 ```bash
 > node index.js
-
+```
 * 🌍 FEATURE 🌍
 ```bash
 random anime
