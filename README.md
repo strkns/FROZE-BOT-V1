@@ -26,6 +26,7 @@
 > git clone https://github.com/fxdSMP/FROZE-BOT-V1
 > cd FROZE-BOT-V1 
 > npm i
+> npm i got
 ```
 # START SCRIPT?
 ```bash
