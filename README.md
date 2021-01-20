@@ -30,3 +30,15 @@
 # START SCRIPT?
 ```bash
 > node index.js
+
+* 🌍 FEATURE 🌍
+```bash
+random anime
+nulis
+daftar
+vipmenu
+play
+joox
+yt download
+AND MORE
+```
