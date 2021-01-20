@@ -12,3 +12,21 @@
 > termux
 > Kouta
 > Ruang Penyimpanan
+> Cemilan
+```
+# CARA INSTALL 🤔
+* Ikuti Text Nya Bawah Ini:
+```bash
+> pkg install git
+> pkg install tessract
+> pkg install ffmpeg
+> pkg install wget
+> pkg install nodejs -y
+> pkg install python
+> git clone https://github.com/fxdSMP/FROZE-BOT-V1
+> cd FROZE-BOT-V1 
+> npm i
+```
+# START SCRIPT?
+```bash
+> node index.js
