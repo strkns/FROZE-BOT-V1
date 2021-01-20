@@ -39,6 +39,8 @@ daftar
 vipmenu
 play
 joox
+sticker
+stickergif
 yt download
 AND MORE
 ```
